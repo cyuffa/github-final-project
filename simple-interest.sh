@@ -6,7 +6,7 @@
    
    # Author: Upkar Lidder (IBM)
    # Additional Authors:
-   # <cyuffa>
+   # cyuffa
    
    # Input:
    # p, principal amount
